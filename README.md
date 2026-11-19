@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="oilygiant_profitability_cover_1280x640.jpg"
+       alt="OilyGiant — Oil Well Profitability & Risk Analysis"
+       width="100%">
+</p>
+
+# OilyGiant — Oil Well Profitability & Risk Analysis
+
 # OilyGiant — Oil Well Profitability & Risk Analysis
 
 ### Machine Learning | Business Analytics | Investment Risk Assessment
