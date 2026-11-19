@@ -6,8 +6,6 @@
 
 # OilyGiant — Oil Well Profitability & Risk Analysis
 
-# OilyGiant — Oil Well Profitability & Risk Analysis
-
 ### Machine Learning | Business Analytics | Investment Risk Assessment
 
 **Author:** Ana Paula Takezawa         
