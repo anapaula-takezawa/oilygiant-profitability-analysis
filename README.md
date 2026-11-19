@@ -2,7 +2,7 @@
 
 ### Machine Learning | Business Analytics | Investment Risk Assessment
 
-**Author:** Ana Paula Takezawa        
+**Author:** Ana Paula Takezawa         
 **Education:** MBA in Data Science & Artificial Intelligence — TripleTen Brasil  
 **Field:** Data Science | Predictive Modeling | Business Analytics  
 **Technologies:** Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn  
@@ -154,4 +154,33 @@ Therefore, Region 1 offers the strongest combination of expected profitability a
 ```text
 oilygiant-profitability-analysis/
 ├── data/
-│  
+│   ├── README.md
+│   ├── geo_data_0.csv
+│   ├── geo_data_1.csv
+│   └── geo_data_2.csv
+├── oilygiant_oil_well_profitability_analysis.ipynb
+└── README.md
+```
+
+## How to Run
+
+1. Clone this repository.
+2. Open the notebook in Jupyter Notebook or Google Colab.
+3. Ensure all three datasets are available in the `data/` directory.
+4. Install the required Python libraries if they are not already available.
+5. Run the notebook cells sequentially.
+
+## Conclusion
+
+This project demonstrates how predictive modeling and statistical simulation can support high-impact business investment decisions.
+
+By combining Linear Regression with Bootstrap-based risk assessment, the analysis identified Region 1 as the most suitable investment option among the three candidates.
+
+The final recommendation prioritizes risk-adjusted profitability rather than relying exclusively on the highest initial profit estimate.
+
+---
+
+**Skills Demonstrated:** Data Preparation | Linear Regression | Predictive Modeling | Financial Analysis | Bootstrapping | Confidence Intervals | Risk Assessment | Data-Driven Decision Making
+
+
+
